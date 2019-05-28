@@ -1,6 +1,8 @@
 # arm-toolkit
 
-Some scripts I like to have on my ARM cluster nodes
+Some scripts I like to have on my basement ARM cluster nodes that aren't available via `apt`. I don't particularly want to install `npm` or its ilk on my k8s nodes, but I do want to have a pleasant userspace experience.
+
+Licenses for the scripts here can be found in their original source.
 
 ## What's in it
 
